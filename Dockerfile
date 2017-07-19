@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Daniel Gauch "reg1@gauch.biz"
+MAINTAINER Daniel Gauch "daniel@gauch.biz"
 
 RUN apt-get update && apt-get install -y \
         qemu-utils \
